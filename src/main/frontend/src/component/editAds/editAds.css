@@ -1,0 +1,14 @@
+
+  #ads-home{
+    width: 400px;
+    height: 300px;
+  }
+
+  .card-text{
+    height: 60px;
+    overflow: hidden;
+    margin-bottom: 5px;
+  }
+  .ads{
+     margin-right: -500px;
+  }

@@ -1,0 +1,204 @@
+
+/**********  [header]  **********/
+
+.home-header{
+    width: auto;
+    height: 83px;
+    background-color: #1877F2;
+}
+
+.bi-house-door{
+  
+    font-size: 25px;
+    color: #fff;
+}
+.bi-person-circle{
+  
+    font-size: 25px;
+    color: #fff;
+}
+.bi-plus-lg{
+    font-size: 25px;
+    color: #fff;
+}
+.bi-box-arrow-in-left{
+
+  font-size: 25px;
+  color: #fff;
+}
+.bi-pencil-square{
+ 
+  font-size: 25px;
+  color: #fff;
+}
+
+.leble-icon-home{
+  color: #fff;
+  margin-right: 40px;
+}
+
+.leble-icon-edit{
+  color: #fff;
+  margin-right: -10px;
+}
+
+.leble-icon-addAds{
+  color: #fff;
+  margin-right: -20px;
+}
+
+.leble-icon-editAds{
+  color: #fff;
+  margin-right: -10px;
+}
+
+.leble-icon-login{
+  color: #fff;
+  margin-right: -10px;
+}
+
+.home, .edit, .add-ads, .editAds, .home-login, .home-login{
+    width: 100px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+.edit{
+  margin-right: 43px;
+}
+
+.home-login{
+  margin-right: 30px;
+
+}
+
+.editAds{
+  margin-left: 900px;
+}
+
+.btn-light{
+  width: 100px;
+  margin-top: -20px;
+
+}
+
+#logout{
+  margin-top: -40px;
+}
+
+#logout:hover {
+
+  background-color: #ccc;
+}
+
+/*************** [search] ****************/
+.search{
+    margin-top: 30px;
+    margin-right: 115px;
+}
+.example{
+     margin: auto;
+     max-Width: 450px
+}
+
+  form.example button {
+    width: 10%;
+    height: 50px;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5%;
+    background: #1877F2;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+
+
+  /********** [nav]**************/
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1877F2;
+  
+
+  }
+  
+  li {
+      padding: 8px;
+      margin: 8px;
+      float: right;
+      display: inline-block;
+  }
+  
+  li i {
+    padding: 50px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li i:hover {
+    background-color: #929aaa;
+  }
+
+  .home-button{
+    margin-left: 5px;
+    border: 1px solid #fff;
+    background-color: #1877F2;
+  }
+
+
+  ul{
+    padding: 10px;
+    text-align: center;
+  
+  }
+
+  .category-nav{
+    margin-top: 40px;
+  }
+
+
+
+  /****** [all ads] *******/
+
+  .all-ads{
+    margin-top: 50px  ;
+    margin-right: 100px;
+  }
+  .ads{
+    width: 400px;
+    display: inline-block;
+    margin: 15px;
+  }
+
+  #ads-home{
+    width: 400px;
+    height: 300px;
+  }
+
+  .card-title{
+
+    height: 75px;
+    overflow: hidden;
+  }
+  .card-text{
+    height: 75px;
+    overflow: hidden;
+    margin-bottom: 5px;
+  }
+
+
